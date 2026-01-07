@@ -4,7 +4,7 @@
 
 The objective of this project is to build an Image Classification model using Neural Networks that can accurately classify images into predefined categories. The project focuses on understanding the complete deep learning workflow—from data preprocessing to model evaluation—while gaining hands-on experience with image-based machine learning problems.
 
-📊 Project Results
+## 📊 Project Results
 
 Successfully built and trained a Neural Network–based image classifier
 
@@ -16,7 +16,7 @@ Developed a strong understanding of image data handling and deep learning fundam
 
 (Optional: Add accuracy %, dataset size, or epochs here if available for extra impact)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Programming Language: Python
 
