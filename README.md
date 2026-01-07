@@ -24,7 +24,7 @@ Libraries & Frameworks: TensorFlow, Keras, NumPy, Matplotlib
 
 Concepts: Neural Networks, Image Classification, Deep Learning, Model Evaluation
 
-Key Learnings
+## Key Learnings
 
 Practical implementation of Neural Networks for image data
 
